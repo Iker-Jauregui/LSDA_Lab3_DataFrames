@@ -211,3 +211,5 @@ __marimo__/
 data/lastfm-dataset-360K/mbox_sha1sum.py
 
 data/lastfm-dataset-360K/
+
+data/lastfm-dataset-1K/
