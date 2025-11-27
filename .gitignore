@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+*.gz
+
+data/lastfm-dataset-360K/mbox_sha1sum.py
+
+data/lastfm-dataset-360K/
